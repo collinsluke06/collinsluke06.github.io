@@ -10846,3 +10846,11 @@ section {
   padding-top: 3rem;
   padding-bottom: 3rem;
 }
+
+@media (max-width: 768px) {
+
+  [class*="col-"] {
+      margin-bottom: 15px;
+  }
+
+}
